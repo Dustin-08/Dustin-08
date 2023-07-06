@@ -1,9 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=31A8FF&height=250&section=header&text=Dive_into_code!&fontColor=ffffff&fontSize=70)
+<div align="center">
+
+  ![header](https://capsule-render.vercel.app/api?type=Waving&color=31A8FF&height=250&section=header&text=Dive_into_code!&fontColor=ffffff&fontSize=70)
 
 ### Hello World! I'm Seungwoo Choi! Welcome to my Github!
 
 <a href="https://www.instagram.com/swc_iot_dev_diary/" target="_blank"><img src="https://img.shields.io/badge/swc_iot_dev_diary-E4405F?style=flat&logo=Instagram&logoColor=FFFFFF"/></a>
 
+</div>
 
 <!--
 **Dustin-08/Dustin-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
