@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=31A8FF&height=300&section=header&text=Dive into code!&fontColor=ffffff&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=31A8FF&height=250&section=header&text=Dive_into_code!&fontColor=ffffff&fontSize=70)
 
 ### Hello World! I'm Seungwoo Choi! Welcome to my Github!
 
