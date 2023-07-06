@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&text=Waving~!)
+![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=0,2,2,5,30type=Waving&text=Waving~!)
 ### Hello! I'm Seungwoo Choi! Welcome to my Github!
 <a href="https://www.instagram.com/swc_iot_dev_diary/" target="_blank"><img src="https://img.shields.io/badge/swc_iot_dev_diary-E4405F?style=flat&logo=Instagram&logoColor=FFFFFF"/></a>
 
