@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! I'm Seungwoo Choi! Welcome to my Github!
 <a href="https://www.instagram.com/swc_iot_dev_diary/" target="_blank"><img src="https://img.shields.io/badge/swc_iot_dev_diary-E4405F?style=flat&logo=Instagram&logoColor=FFFFFF"/></a>
 
 <!--
