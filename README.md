@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&text=Waving~!&color=31A8FF&height=150&section=header&text=893107&fontColor=ffffff&fontSize=70)
-### Hello! I'm Seungwoo Choi! Welcome to my Github!
+![header](https://capsule-render.vercel.app/api?type=Waving&color=31A8FF&height=150&section=header&text=Waving~!&fontColor=ffffff&fontSize=70)
+### Hello World! I'm Seungwoo Choi! Welcome to my Github!
 <a href="https://www.instagram.com/swc_iot_dev_diary/" target="_blank"><img src="https://img.shields.io/badge/swc_iot_dev_diary-E4405F?style=flat&logo=Instagram&logoColor=FFFFFF"/></a>
 
 <!--
