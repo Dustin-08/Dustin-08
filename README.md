@@ -8,6 +8,7 @@
 
 ![Seungwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dustin08&show%20icons=true&theme=github_dark)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dustin08)](https://solved.ac/dustin08)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dustin08&layout=compact&theme=github_dark)
 
 </div>
 
