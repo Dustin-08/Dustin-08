@@ -7,6 +7,7 @@
 <a href="https://www.instagram.com/swc_iot_dev_diary/" target="_blank"><img src="https://img.shields.io/badge/swc_iot_dev_diary-E4405F?style=flat&logo=Instagram&logoColor=FFFFFF"/></a>
 
 <img src="http://devse.gonetis.com:12475/badge.svg" align="center">
+<img src="http://devse.gonetis.com:12475/cansat_badge.svg" alt="cansat_badge.svg" align="center">
 
 <!-- ![Seungwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dustin-08&show%20icons=true&theme=github_dark)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dustin08)](https://solved.ac/dustin08) -->
