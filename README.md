@@ -6,10 +6,10 @@
 
 <a href="https://www.instagram.com/swc_iot_dev_diary/" target="_blank"><img src="https://img.shields.io/badge/swc_iot_dev_diary-E4405F?style=flat&logo=Instagram&logoColor=FFFFFF"/></a>
 
+<img src="https://devse.kr/university_of_ulsan.svg" allign="center">
 <img src="https://devse.kr/devse_badge.svg" align="center">
 <img src="https://devse.kr/gaonnuri_ko.svg" align="center">
 <img src="http://devse.kr/division_badge.svg" align="center">
-<img src="https://devse.kr/cansat_badge.svg" align="center">
 
 <!-- ![Seungwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dustin-08&show%20icons=true&theme=github_dark)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dustin08)](https://solved.ac/dustin08) -->
