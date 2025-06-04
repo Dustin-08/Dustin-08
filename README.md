@@ -15,6 +15,17 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dustin08)](https://solved.ac/dustin08) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dustin-08&layout=compact&theme=github_dark)
 <img src="https://github.com/Dustin-08/Dustin-08/blob/main/csw_business_card.png"/>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/Dustin-08"/>
+</a>
+<a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/717922061158579216/draw"
+        width="600"
+        height="300"
+        alt="gitanimals"
+      />
+    </a>
 
 
 </div>
