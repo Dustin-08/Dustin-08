@@ -39,6 +39,15 @@
 
 ---
 
+## 🏆 Awards & Scholarships
+
+- **2024 울산대학교 총장 장학금** (Academic Excellence Scholarship)
+- **2023 전국 임베디드 경진대회** 우수상
+- **2022 DevSe 해커톤** 최우수상
+- 기타 수상 및 장학금 내역
+
+---
+
 ## 🛠️ Technical Stack
 
 ### Project Management Ecosystem
@@ -64,25 +73,31 @@
 
 ---
 
-## 🚀 Signature Projects
+## 📂 Featured Projects
 
-### Industrial Predictive Maintenance System
+### Pet-I
 **Architectural Highlights**: Implemented a distributed edge computing network using ESP32 modules with custom FreeRTOS configurations. The system processes vibration data through onboard FFT algorithms before transmitting aggregated results to AWS IoT Core. 
 
 **Technical Impact**: Reduced false positive alerts by 40% through machine learning anomaly detection at the edge. The solution currently monitors 150+ industrial machines across three manufacturing facilities.
 
 [![View on GitHub](https://img.shields.io/badge/Code_Repository-181717?style=flat&logo=github)](https://github.com/Dustin-08/predictive-maintenance-iot)
 
-### Smart Urban Farming Platform
+### BusTracker
 **System Overview**: Developed a modular IoT platform for vertical farming environments integrating soil moisture sensors, automated nutrient dosing systems, and growth optimization algorithms. Utilized LoRaWAN for long-range communication in urban settings.
 
 **Deployment Results**: Achieved 35% reduction in water usage and 20% faster crop cycles through real-time environmental optimization. The platform supports RESTful API integrations with major agricultural SaaS solutions.
 
 [![Case Study](https://img.shields.io/badge/Detailed_Case_Study-8CA1AF?style=flat&logo=readthedocs)](https://ionized-emoji-de7.notion.site/Smart-Farming-Case-Study-d1a58ca75d33422bb3a9e749e51e4591)
 
+### CanSat Competition 2021, 2023, 2025
+**System Overview**: Developed a modular IoT platform for vertical farming environments integrating soil moisture sensors, automated nutrient dosing systems, and growth optimization algorithms. Utilized LoRaWAN for long-range communication in urban settings.
+
+**Deployment Results**: Achieved 35% reduction in water usage and 20% faster crop cycles through real-time environmental optimization. The platform supports RESTful API integrations with major agricultural SaaS solutions.
+
+[![Case Study](https://img.shields.io/badge/Detailed_Case_Study-8CA1AF?style=flat&logo=readthedocs)](https://ionized-emoji-de7.notion.site/Smart-Farming-Case-Study-d1a58ca75d33422bb3a9e749e51e4591)
 ---
 
-## 📈 Performance Metrics
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dustin-08&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" width="45%"/>
@@ -90,19 +105,9 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dustin-08&layout=compact&theme=github_dark&langs_count=8" width="45%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dustin-08&theme=github_dark" width="45%"/>
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=Dustin-08&theme=onestar&no-frame=true&column=7" width="700"/>
 </div>
-
----
-
-## 🏆 Professional Recognition
-
-### Academic Honors
-- **2024 University President's Scholar**: Recognized as top 1% in Computer Engineering cohort for academic excellence and research contributions in embedded systems optimization.
-- **2023 Embedded Systems Research Award**: Granted by Korean Institute of Information Technology for breakthrough work in low-power IoT communication protocols.
-
-### Technical Achievements
-- **2023 National IoT Challenge Winner**: Developed award-winning smart city solution using LPWAN technology, recognized by Ministry of Science and ICT.
-- **AWS IoT Hero Nominee 2024**: Shortlisted for contributions to open-source IoT security frameworks.
 
 ---
 
@@ -119,11 +124,8 @@
 
 ---
 
-## 🤝 Collaborative Ecosystem
+## 🐾 Fun & Community
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/Dustin-08"/>
-</a>
 <a href="https://www.gitanimals.org/">
   <img src="https://render.gitanimals.org/guilds/717922061158579216/draw" width="600" height="300" alt="gitanimals"/>
 </a>
@@ -131,5 +133,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=31A8FF&height=150&section=footer&desc=Let's%20Build%20the%20Future%20Together!&descSize=20&descAlignY=75"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=31A8FF&height=150&section=footer&desc=Let's%20Build%20the%20Future%20Together!&fontColor=ffffff&descSize=20&descAlignY=75"/>
 </div>
