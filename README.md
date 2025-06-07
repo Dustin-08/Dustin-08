@@ -33,18 +33,53 @@
 ## 🧑‍💻 About Me
 
 - 💡 Various project experience in PMO & IoT field
+  - Participate in the 2021 & 2023 CanSat Competition
+  - CES 2024 Booth Operation
+  - Participating in the 2025 CanSat Competition as a Mentor
 - 🌱 Currently focusing on autonomous driving and ROS, IoT system and embedded development
 - 🏫 Currently attending Ulsan University
 - 💬 Inquiries are always welcome!
 
 ---
 
-## 🏆 Awards & Scholarships
-
-- **2024 울산대학교 총장 장학금** (Academic Excellence Scholarship)
-- **2023 전국 임베디드 경진대회** 우수상
-- **2022 DevSe 해커톤** 최우수상
-- 기타 수상 및 장학금 내역
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h2>🏆 Awards & Scholarships</h2>
+      <ul>
+        <li>Current Student Academic Excellence Scholarship (2020.08.20)</li>
+        <li>2020 On-campus Startup and Entrepreneurship Competition Bronze Prize (2020.11.23)</li>
+        <li>Current Student Academic Excellence Scholarship (2021.01.15)</li>
+        <li>2023 Artificial Intelligence (AI) Curriculum - SW Testing Best Award (2023.09.26)</li>
+        <li>2023 On-campus Capstone Design Competition Gold Prize (2023.11.03)</li>
+        <li>2023 On-campus Capstone Design Competition Bronze Prize (2023.11.03)</li>
+        <li>2023 4th Creative Innovation Capstone Design Competition Korea Industry-Academic Cooperation Society Free Prize (2023.11.17)</li>
+        <li>2023 Digitech Capstone Design Competition Bronze Prize (2023.11.25)</li>
+        <li>2023 Junior College Innovation Support Project NUN Excellent Work Award Grand Prize (2023.12.22)</li>
+        <li>Current Student Academic Excellence Scholarship (2023.07.19)</li>
+        <li>Pepsis Co., Ltd. Life Scholarship (2023.08.31)</li>
+        <li>2024 Teaching and Learning Support Center UC MOOC Supporters Gold Prize (2024.01.30)</li>
+        <br/>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <ul>
+        <br/>
+        <li>Current Student Academic Excellence Scholarship (2024.01.23)</li>
+        <li>Pepsis Co., Ltd. Life Scholarship (2024.02.14)</li>
+        <li>2024 Communication Innovation Convergence University Project Promotion and Poster Video Production Contest Gold Prize (2024.11.08)</li>
+        <li>2024 Junior College Innovation Support Project Capstone Design Contest Silver Prize (2024.11.08)</li>
+        <li>2024 Junior College Software Development Capstone Design Contest Silver Prize (2024.11.08)</li>
+        <li>2024 5th Creative Innovation Capstone Design Contest Excellence Prize (2024.11.22)</li>
+        <li>2024 NCCOSS Contest Award Communication Business Unit Director Prize (2024.11.22)</li>
+        <li>Current Student Academic Excellence Scholarship (2024.07.22)</li>
+        <li>Pepsis Co., Ltd. Life Scholarship (2024.08.07)</li>
+        <li>2024 Creative Content Contest Video Shrimp Jeon Bronze Prize (2025.01.02)</li>
+        <li>2025 UOU Transfer student admission excellent grade scholarship (2025.03)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -75,26 +110,31 @@
 
 ## 📂 Featured Projects
 
-### Pet-I
-**Architectural Highlights**: Implemented a distributed edge computing network using ESP32 modules with custom FreeRTOS configurations. The system processes vibration data through onboard FFT algorithms before transmitting aggregated results to AWS IoT Core. 
+### 🐾 Pet-I (Developed by VisionMesh)
+**Architectural Highlights**: a
 
-**Technical Impact**: Reduced false positive alerts by 40% through machine learning anomaly detection at the edge. The solution currently monitors 150+ industrial machines across three manufacturing facilities.
+**Technical Impact**: a
 
-[![View on GitHub](https://img.shields.io/badge/Code_Repository-181717?style=flat&logo=github)](https://github.com/Dustin-08/predictive-maintenance-iot)
+[![View on Notion](https://img.shields.io/badge/Notion-Project-000000?style=flat&logo=notion)](https://ionized-emoji-de7.notion.site/Pet-I-Developed-by-VisionMesh-175ebd19cd2e80eaae2bcae896cf9ec0?source=copy_link)
 
-### BusTracker
-**System Overview**: Developed a modular IoT platform for vertical farming environments integrating soil moisture sensors, automated nutrient dosing systems, and growth optimization algorithms. Utilized LoRaWAN for long-range communication in urban settings.
+### 🚌 BusTracker
+**System Overview**: a
 
-**Deployment Results**: Achieved 35% reduction in water usage and 20% faster crop cycles through real-time environmental optimization. The platform supports RESTful API integrations with major agricultural SaaS solutions.
+**Deployment Results**: a
 
-[![Case Study](https://img.shields.io/badge/Detailed_Case_Study-8CA1AF?style=flat&logo=readthedocs)](https://ionized-emoji-de7.notion.site/Smart-Farming-Case-Study-d1a58ca75d33422bb3a9e749e51e4591)
+[![View on Notion](https://img.shields.io/badge/Notion-Project-000000?style=flat&logo=notion)](https://ionized-emoji-de7.notion.site/BBB-Bus-Buddy-Buddy-BusTracker-175ebd19cd2e80ab85cefee4c6db4437?source=copy_link)
 
-### CanSat Competition 2021, 2023, 2025
-**System Overview**: Developed a modular IoT platform for vertical farming environments integrating soil moisture sensors, automated nutrient dosing systems, and growth optimization algorithms. Utilized LoRaWAN for long-range communication in urban settings.
+### 🚀 CanSat Competition 2021, 2023, 2025
+**System Overview**: a
 
-**Deployment Results**: Achieved 35% reduction in water usage and 20% faster crop cycles through real-time environmental optimization. The platform supports RESTful API integrations with major agricultural SaaS solutions.
+**Deployment Results**: a
 
-[![Case Study](https://img.shields.io/badge/Detailed_Case_Study-8CA1AF?style=flat&logo=readthedocs)](https://ionized-emoji-de7.notion.site/Smart-Farming-Case-Study-d1a58ca75d33422bb3a9e749e51e4591)
+[![View on Notion](https://img.shields.io/badge/Notion-Project_2021-000000?style=flat&logo=notion)](https://ionized-emoji-de7.notion.site/2021-CanSat-Competition-7ee2af7524a54721bdebb3a03d5f7eb8?source=copy_link)
+
+[![View on Notion](https://img.shields.io/badge/Notion-Project_2023-000000?style=flat&logo=notion)](https://ionized-emoji-de7.notion.site/2023-CanSat-Competition-6c7d1fccb18846819effe32a1b0eb6c3?source=copy_link)
+
+[![View on Notion](https://img.shields.io/badge/Notion-Project_2025-000000?style=flat&logo=notion)](https://ionized-emoji-de7.notion.site/2025-CanSat-Competition-175ebd19cd2e806a9effee32e8ca8a66?source=copy_link)
+
 ---
 
 ## 📊 GitHub Stats
@@ -113,14 +153,18 @@
 
 ## 🌱 Continuous Growth
 
-### Current Certifications
-- **Certified Scrum Master (CSM)**: Scaled Agile Framework Practitioner
-- **AWS Certified Solutions Architect – Associate**: Specializing in IoT implementations
+### Current Certifications & Experiences
+- 2023 CanSat Competition Certificate of Completion (American Astronautical Society)
+- Network Engineer
+- LinuxMaster
+- SCA(Speciality Coffee Association Foundation Level)
+- 2024 UCNCCOSS Supporters Certificate of Completion
+- CES 2024 Booth Operation with CanSat
 
-### 2024 Learning Roadmap
-- **Edge AI Specialization**: ONNX Runtime deployment on embedded systems
-- **Advanced Cybersecurity**: IoT device hardening techniques
-- **Quantum Computing Basics**: Qiskit framework exploration
+### 2025 Learning Roadmap
+- **Autonomous driving**: 
+- **Data Analysis and Prediction**:
+- **Cloud IoT**: 
 
 ---
 
