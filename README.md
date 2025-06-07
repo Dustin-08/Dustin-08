@@ -48,17 +48,17 @@
       <h2>🏆 Awards & Scholarships</h2>
       <ul>
         <li>Current Student Academic Excellence Scholarship (2020.08.20)</li>
-        <li>2020 On-campus Startup and Entrepreneurship Competition Bronze Prize (2020.11.23)</li>
+        <li>🥉 2020 On-campus Startup and Entrepreneurship Competition Bronze Prize (2020.11.23)</li>
         <li>Current Student Academic Excellence Scholarship (2021.01.15)</li>
-        <li>2023 Artificial Intelligence (AI) Curriculum - SW Testing Best Award (2023.09.26)</li>
-        <li>2023 On-campus Capstone Design Competition Gold Prize (2023.11.03)</li>
-        <li>2023 On-campus Capstone Design Competition Bronze Prize (2023.11.03)</li>
+        <li>🥇 2023 Artificial Intelligence (AI) Curriculum - SW Testing Best Award (2023.09.26)</li>
+        <li>🥇 2023 On-campus Capstone Design Competition Gold Prize (2023.11.03)</li>
+        <li>🥉 2023 On-campus Capstone Design Competition Bronze Prize (2023.11.03)</li>
         <li>2023 4th Creative Innovation Capstone Design Competition Korea Industry-Academic Cooperation Society Free Prize (2023.11.17)</li>
-        <li>2023 Digitech Capstone Design Competition Bronze Prize (2023.11.25)</li>
-        <li>2023 Junior College Innovation Support Project NUN Excellent Work Award Grand Prize (2023.12.22)</li>
+        <li>🥉 2023 Digitech Capstone Design Competition Bronze Prize (2023.11.25)</li>
+        <li>🥇 2023 Junior College Innovation Support Project NUN Excellent Work Award Grand Prize (2023.12.22)</li>
         <li>Current Student Academic Excellence Scholarship (2023.07.19)</li>
         <li>Pepsis Co., Ltd. Life Scholarship (2023.08.31)</li>
-        <li>2024 Teaching and Learning Support Center UC MOOC Supporters Gold Prize (2024.01.30)</li>
+        <li>🥇 2024 Teaching and Learning Support Center UC MOOC Supporters Gold Prize (2024.01.30)</li>
         <br/>
       </ul>
     </td>
@@ -67,14 +67,14 @@
         <br/>
         <li>Current Student Academic Excellence Scholarship (2024.01.23)</li>
         <li>Pepsis Co., Ltd. Life Scholarship (2024.02.14)</li>
-        <li>2024 Communication Innovation Convergence University Project Promotion and Poster Video Production Contest Gold Prize (2024.11.08)</li>
-        <li>2024 Junior College Innovation Support Project Capstone Design Contest Silver Prize (2024.11.08)</li>
-        <li>2024 Junior College Software Development Capstone Design Contest Silver Prize (2024.11.08)</li>
-        <li>2024 5th Creative Innovation Capstone Design Contest Excellence Prize (2024.11.22)</li>
-        <li>2024 NCCOSS Contest Award Communication Business Unit Director Prize (2024.11.22)</li>
+        <li>🥇 2024 NCCOSS Innovation Convergence University Project Promotion and Poster Video Production Contest Gold Prize (2024.11.08)</li>
+        <li>🥈 2024 Junior College Innovation Support Project Capstone Design Contest Silver Prize (2024.11.08)</li>
+        <li>🥈 2024 Junior College Software Development Capstone Design Contest Silver Prize (2024.11.08)</li>
+        <li>🥇 2024 5th Creative Innovation Capstone Design Contest Excellence Prize (2024.11.22)</li>
+        <li>🥇 2024 NCCOSS Contest Award Communication Business Unit Director Prize (2024.11.22)</li>
         <li>Current Student Academic Excellence Scholarship (2024.07.22)</li>
         <li>Pepsis Co., Ltd. Life Scholarship (2024.08.07)</li>
-        <li>2024 Creative Content Contest Video Shrimp Jeon Bronze Prize (2025.01.02)</li>
+        <li>🥉 2024 Creative Content Contest Video Shrimp Jeon Bronze Prize (2025.01.02)</li>
         <li>2025 UOU Transfer student admission excellent grade scholarship (2025.03)</li>
       </ul>
     </td>
