@@ -159,13 +159,15 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dustin-08&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dustin-08&theme=github-dark" width="45%"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=Dustin-08&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" width="45%"/> -->
   
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dustin-08&theme=github-dark" width="45%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dustin-08&layout=compact&theme=github_dark&langs_count=8" width="45%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dustin-08&theme=github_dark" width="45%"/>
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dustin-08&theme=github_dark&utcOffset=9" width="45%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dustin-08&theme=github_dark" width="45%"/>
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Dustin-08&theme=onestar&no-frame=true&column=7" width="700"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Dustin-08&theme=onestar&no-frame=true&column=8" width="90%"/>
 </div>
 
 ---
