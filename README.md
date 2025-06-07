@@ -98,6 +98,7 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat&logo=Arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat&logo=espressif&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![RaspberryPi](https://img.shields.io/badge/RaspberryPi-A22846?style=flat&logo=raspberrypi&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white)
 ![TensoFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
@@ -111,23 +112,41 @@
 ## 📂 Featured Projects
 
 ### 🐾 Pet-I (Developed by VisionMesh)
-**Architectural Highlights**: a
+**One line introduction**: Project to develop IoT devices and mobile-based applications for pet health monitoring
 
-**Technical Impact**: a
+**Tools used**:
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat&logo=Arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat&logo=espressif&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![RaspberryPi](https://img.shields.io/badge/RaspberryPi-A22846?style=flat&logo=raspberrypi&logoColor=white)
+![TensoFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
 [![View on Notion](https://img.shields.io/badge/Notion-Project-000000?style=flat&logo=notion)](https://ionized-emoji-de7.notion.site/Pet-I-Developed-by-VisionMesh-175ebd19cd2e80eaae2bcae896cf9ec0?source=copy_link)
 
 ### 🚌 BusTracker
-**System Overview**: a
+**One line introduction**: A project to develop an IoT device and application that can track the location of a shuttle bus and provide real-time information on empty seats.
 
-**Deployment Results**: a
+**Tools used**:
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat&logo=Arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat&logo=espressif&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A247?style=flat&logo=mongodb&logoColor=white)
 
 [![View on Notion](https://img.shields.io/badge/Notion-Project-000000?style=flat&logo=notion)](https://ionized-emoji-de7.notion.site/BBB-Bus-Buddy-Buddy-BusTracker-175ebd19cd2e80ab85cefee4c6db4437?source=copy_link)
 
 ### 🚀 CanSat Competition 2021, 2023, 2025
-**System Overview**: a
+**One line introduction**: It is an international competition sponsored by NASA and run by the American Astronautical Society, and the mission changes every year.
 
-**Deployment Results**: a
+**Tools used**:
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat&logo=Arduino&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Zigbee](https://img.shields.io/badge/Zigbee-EB0443?style=flat&logo=zigbee&logoColor=white)
 
 [![View on Notion](https://img.shields.io/badge/Notion-Project_2021-000000?style=flat&logo=notion)](https://ionized-emoji-de7.notion.site/2021-CanSat-Competition-7ee2af7524a54721bdebb3a03d5f7eb8?source=copy_link)
 
