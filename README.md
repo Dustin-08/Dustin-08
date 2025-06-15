@@ -197,6 +197,11 @@
 
 ---
 
+## 🏃 Doing My Best
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dustin08)](https://solved.ac/dustin08)
+
+----
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=31A8FF&height=150&section=footer&desc=Let's%20Build%20the%20Future%20Together!&fontColor=ffffff&descSize=20&descAlignY=75"/>
 </div>
