@@ -200,6 +200,14 @@
 ## 🏃 Doing My Best
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dustin08)](https://solved.ac/dustin08)
 
+- Github id: Dustin-08
+- BOJ: dustin08
+- solved.ac: dustin08
+- Codetree: dustin08
+- codeForces: Dustin-08
+- Programmers: dustin08@naver.com
+- AtCoder: dustin08
+
 ----
 
 <div align="center">
