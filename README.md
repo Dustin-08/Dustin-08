@@ -199,6 +199,7 @@
 
 ## 🏃 Doing My Best
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dustin08)](https://solved.ac/dustin08)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dustin08py)](https://solved.ac/dustin08py)
 
 - Github id: Dustin-08
 - BOJ: dustin08
